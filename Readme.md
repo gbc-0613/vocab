@@ -7,11 +7,11 @@
 ## ◼ 執行畫面展示
 
 
-![1. 初始啟動畫面 (預設狀態列提示開檔)](ex/base.png)
+![1. 初始啟動畫面 (預設狀態列提示開檔)](hw7/ex/base.png)
 
-![2. 開啟 WordCards.txt 並將單字完全載入至清單](ex/result.png)
+![2. 開啟 WordCards.txt 並將單字完全載入至清單](hw7/ex/result.png)
 
-![3. Help選單觸發 About ](ex/help.png)
+![3. Help選單觸發 About ](hw7/ex/help.png)
 ````
 
 
